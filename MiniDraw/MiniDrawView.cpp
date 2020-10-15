@@ -13,6 +13,7 @@
 #include "MiniDrawDoc.h"
 #include "MiniDrawView.h"
 
+
 #ifdef _DEBUG
 #define new DEBUG_NEW
 #endif
